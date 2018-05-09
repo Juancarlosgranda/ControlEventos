@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: ControlEventos
+        psr4_prefix: ControlEventos
+        src_path: app
